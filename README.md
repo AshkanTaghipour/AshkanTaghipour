@@ -2,7 +2,9 @@
 
 🔬 **AI Scientist & Engineer** • **Ph.D. in Computer Science** • **ML & Computer Vision Specialist**
 
-AI Scientist & Engineer combining **full-stack development** with **machine learning** and **remote sensing** to build digital tools for environmental research applications. Creator of [MineWatchAI](https://huggingface.co/spaces/AshkanTaghipour/MineWatchAI), with experience at **Dolby Laboratories** (Sydney) and **Novarc Technologies** (Vancouver). Published researcher with **8 peer-reviewed papers** in top-tier venues.
+I architect, train, and deploy multimodal AI systems — spanning **2D/3D Generative AI**, **LLMs**, and **Agentic AI**.
+
+Experience at **Dolby Laboratories** and **Novarc Technologies**. Creator of [MineWatchAI](https://huggingface.co/spaces/AshkanTaghipour/MineWatchAI) and [WealthPathAU](https://wealthpath-au.streamlit.app/), with **10+ peer-reviewed papers**. See my [portfolio](https://ashkantaghipour.github.io/) for more.
 
 ---
 
